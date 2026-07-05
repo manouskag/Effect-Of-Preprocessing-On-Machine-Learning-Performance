@@ -1,1 +1,1 @@
-# Effect-Of-Preprocessing-On-Machine-Learning-Performance
+# This implementation focuses on showing the impact of data preprocessing techniques such as standardization, normalization, handling missing values, and encoding methods to compare the performance of classifiers such as KNN, Logistic regression, and Decision Tree classifier. From the oservation it was seen that KNN performed the best.
